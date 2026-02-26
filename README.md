@@ -1,6 +1,6 @@
 # DSA-888-JAVA
 
-> Solving **888 DSA problems** in Java — fully scaffolded and ready to go.
+> Solving **888 DSA problems** in Java
 
 ---
 
