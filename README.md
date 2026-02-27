@@ -12,7 +12,7 @@ DSA-888-JAVA/
 ├── README.md
 └── src/
     ├── main/java/com/dsa888/
-    │   ├── datastructures/          # Reusable helper classes
+    │   ├── datastructures/          
     │   │   ├── ListNode.java        # Singly-linked list node
     │   │   ├── TreeNode.java        # Binary tree node
     │   │   └── GraphNode.java       # Graph node (adjacency list)
