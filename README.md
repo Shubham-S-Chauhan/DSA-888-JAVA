@@ -77,7 +77,7 @@ P<3-digit-number>_<CamelCaseName>.java
 ```
 
 ### Problem Header Template
-```java
+java
 /**
  * Problem: <Title>
  * Difficulty: Easy | Medium | Hard
