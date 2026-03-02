@@ -50,7 +50,7 @@ DSA-888-JAVA/
 - Maven 3.6+
 
 ### Build & Test
-```bash 
+```bash
 # compile + run all tests
 mvn test
 
