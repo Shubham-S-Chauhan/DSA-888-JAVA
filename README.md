@@ -1,4 +1,4 @@
-# DSA-888-JAVA PRACTICE
+# DSA-888-JAVA
 
 > Solving **888 DSA problems** in Java
 
